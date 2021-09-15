@@ -8,8 +8,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.ydc.model.Member;
-import com.ydc.repository.MemberRepository;
+import com.ydc.boot.model.Member;
+import com.ydc.boot.repository.MemberRepository;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

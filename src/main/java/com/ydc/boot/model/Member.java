@@ -1,4 +1,4 @@
-package com.ydc.model;
+package com.ydc.boot.model;
 
 
 
